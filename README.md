@@ -1,5 +1,5 @@
 # Computer-Vision And Image Processing
-![](assests/Computer-vision-vs-Image-Processing.png)
+![](assests/neural_networking.png)
 The terms "computer vision" and "image processing" are used almost interchangeably in many contexts. They both involve doing some computations on images. But are they really the same thing? Let's talk about what they are, how they are different, and how they are linked to each other.
 
 
