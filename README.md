@@ -14,3 +14,10 @@ Computer vision and image processing work together in many cases. Many computer 
 OpenCV reads in images in BGR format (instead of RGB) because when OpenCV was first being developed, BGR color format was popular among camera manufacturers and image software providers. The red channel was considered one of the least important color channels, so was listed last, and many bitmaps use BGR format for image storage. However, now the standard has changed and most image software and cameras use RGB format, which is why, in programs, it's good practice to initially convert BGR images to RGB before analyzing or manipulating any images.
 
 ![](assests/rgb.png)
+
+# Day 2.0
+Learn to draw different geometric shapes with OpenCV.
+using these these functions : cv.line(), cv.circle() , cv.rectangle(), cv.ellipse(), cv.putText() etc.
+
+
+![](assests/meccanismo-complesso-opencv-draw-circle-and-ellipses.jpg)
