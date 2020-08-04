@@ -16,7 +16,7 @@ OpenCV reads in images in BGR format (instead of RGB) because when OpenCV was fi
 ![](assests/rgb.png)
 
 # Day 2.0
-Learn to draw different geometric shapes with OpenCV.
+Learn How to draw different geometric shapes with OpenCV.
 using these these functions : cv.line(), cv.circle() , cv.rectangle(), cv.ellipse(), cv.putText() etc.
 
 
